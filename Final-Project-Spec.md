@@ -85,8 +85,9 @@ This bonus category is meant to **reward exceptional, out-of-the-box** endeavors
 
 | **Level**    | **Points Range** | **Description**                                                                                                                                                                                    |
 |:-------------|:-----------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Not Awarded** | 0 pts         | • Meets requirements but does not go beyond them.                                                                                                                                                  |
-| **Partial Bonus** | 1–3 pts      | • Partial bonus for extra creativity/advanced approach<br>• Some unique elements in ML/HCI design                                                                                          |
+| **Not Awarded** | 0 pts         | • Meets requirements but does not go beyond them.|
+| **Github collaboration** | 2 pts         | Use of project management resources like Issues, Projects and Actions on Github.|
+| **Partial Bonus** | 3 pts      | • Partial bonus for extra creativity/advanced approach<br>• Some unique elements in ML/HCI design.|
 | **Full Bonus**    | 4–5 pts      | • Truly innovative solution or domain application. <br>• Exceptional demonstration of advanced techniques or HCI integration.|
 
 **Total = 55 points (55% of module grade)**
